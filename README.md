@@ -4,7 +4,7 @@
 
   <a href = "mailto:jj.oliveira2118@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/rodrigo-novais-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=logmein&logoColor=white" target="_blank" /></a> 
-  <a href="https://next-blog-fawn-sigma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /></a> 
+  <a href="https://2j-app.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /></a> 
   </div>
   &nbsp;
 <p align="center"><img alt="user-image" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="50%"></p>
