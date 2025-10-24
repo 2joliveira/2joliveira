@@ -1,8 +1,8 @@
 <h1 align="center"> Hello there! I'm Jefferson! <img src="https://i.red d.it/26s9eejm8vz51.png" width="60px"></h1>
-<div style="display: inline_block" align="center">
+<div style="display: flex" align="center">
   <h3 align="center"> Full Stack Developer</h3> 
 
-  <p align="center"><img alt="user-image" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="50%"></p>
+  <p align="center"><img alt="user-image" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="20%"></p>
 </div>
 <div align="center">
 
